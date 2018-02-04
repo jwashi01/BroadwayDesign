@@ -1,0 +1,120 @@
+html {
+  font-family: Helvetica;
+  text-align:center;
+}
+
+            /*Broadway Design - Page Header/Site Navigation*/
+.navigation1 li {
+  list-style-type: none;
+  margin-bottom:12px;
+  color: white;
+}
+
+.homelink1 {
+  color:white;
+  font-weight:normal;
+  font-size: 18px;
+}
+
+#top {
+  background-color:dimgray;
+  color: white;
+}
+
+.design {
+  font-size:70px;
+  font-weight:bold;
+  color:white;
+}
+              /* <!--Process Section--> */
+
+.ourprocess {
+  font-size:32px;
+  font-weight:bold;
+}
+
+.identify {
+  font-size:23px;
+  font-weight:bold;
+}
+
+.wefocus {
+  font-size:14px;
+}
+
+.understand {
+  font-size:32px;
+  font-weight:bold;
+}
+
+.westudy {
+  font-size:14px;
+}
+
+.execute {
+  font-size:32px;
+  font-weight:bold;
+}
+
+.weput {
+  font-size:14px;
+}
+
+          /*Change background to image file */
+.DesignNYC {
+  font-size:23px;
+  font-weight:bold;
+  color:white;
+  background-color:dimgray;
+}
+           /*Portfolio Section*/
+.workportfolio {
+  font-size:23px;
+  font-weight:bold;
+}
+
+.comingsoon {
+  font-size:14px;
+}
+
+            /*Team Section*/
+
+.teamheader {
+  font-size:23px;
+  font-weight:bold;
+}
+
+.wehire {
+  font-size:14px;
+}
+
+   /*Contact Section*/
+
+.contactheader {
+  font-size:23px;
+  font-weight:bold;
+}
+
+
+}
+.phonenumber, .email, .twitter {
+  font-size:14px;
+}
+
+  /* Footer Section */
+
+footer {
+  background-color:dimgray;
+  color:white;
+}
+
+.Broadway2016 {
+  font-size:11px;
+  text-align:left;
+}
+
+.homelink {
+  color:white;
+  font-weight:bold;
+  font-size: 18px;
+}
