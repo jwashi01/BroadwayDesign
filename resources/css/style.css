@@ -18,7 +18,7 @@ html {
 
 #top {
   background-color:dimgray;
-  /*Add Background image*/
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 .design {
@@ -66,7 +66,8 @@ html {
   font-weight:bold;
   color:white;
   background-color:dimgray;
-  /*Add background-image:*/
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  
 }
             /*Portfolio Section*/
 .workportfolio {
