@@ -18,13 +18,16 @@ html {
 
 #top {
   background-color:dimgray;
+  background-image: url ("../../resources/images/the-flatiron-building.png");
   color: white;
+
 }
 
 .design {
   font-size:70px;
   font-weight:bold;
   color:white;
+  background-image:url();
 }
               /* <!--Process Section--> */
 
