@@ -3,7 +3,7 @@ html {
   text-align:center;
 }
 
-            /*Broadway Design - Page Header/Site Navigation*/
+                /*Broadway Design - Page Header/Site Navigation*/
 .navigation1 li {
   list-style-type: none;
   margin-bottom:12px;
@@ -18,16 +18,13 @@ html {
 
 #top {
   background-color:dimgray;
-  background-image: url ("../../resources/images/the-flatiron-building.png");
-  color: white;
-
+  /*Add Background image*/
 }
 
 .design {
   font-size:70px;
   font-weight:bold;
   color:white;
-  background-image:url();
 }
               /* <!--Process Section--> */
 
@@ -63,14 +60,15 @@ html {
   font-size:14px;
 }
 
-          /*Change background to image file */
+
 .DesignNYC {
   font-size:23px;
   font-weight:bold;
   color:white;
   background-color:dimgray;
+  /*Add background-image:*/
 }
-           /*Portfolio Section*/
+            /*Portfolio Section*/
 .workportfolio {
   font-size:23px;
   font-weight:bold;
@@ -78,6 +76,7 @@ html {
 
 .comingsoon {
   font-size:14px;
+  font-weight: normal;
 }
 
             /*Team Section*/
@@ -91,7 +90,7 @@ html {
   font-size:14px;
 }
 
-   /*Contact Section*/
+          /*Contact Section*/
 
 .contactheader {
   font-size:23px;
@@ -104,7 +103,7 @@ html {
   font-size:14px;
 }
 
-  /* Footer Section */
+        /* Footer Section */
 
 footer {
   background-color:dimgray;
@@ -118,6 +117,6 @@ footer {
 
 .homelink {
   color:white;
-  font-weight:bold;
+  font-weight:normal;
   font-size: 18px;
 }
